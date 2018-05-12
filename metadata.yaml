@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8378'
     url: http://www.gutenberg.org/2009/agents/8378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18967#The-BastonnaisTale-of-the-American-Invasion-of-Canada-in-1775-76
 gutenberg_issued: '2006-08-02'
 gutenberg_type: Text
 identifiers:
